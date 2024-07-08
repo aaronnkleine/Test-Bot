@@ -1,0 +1,7 @@
+{
+    "token":"TOKEN",
+    "autodelete":300,
+    "prefix":"!",
+    "startupchannelid":,
+    "welcomechannelid":
+}
